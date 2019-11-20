@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Interest in Software Development"
-date:       2019-11-20 17:43:28 +0000
+date:       2019-11-20 12:43:29 -0500
 permalink:  my_interest_in_software_development
 ---
 
